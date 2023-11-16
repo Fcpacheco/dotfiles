@@ -36,6 +36,7 @@ echo 'Hello from .zshrc'
 
 
 # Set Variables
+# Syntax highlighting for man pages using bat
 
 # Change ZSH Options
 
@@ -52,6 +53,7 @@ RPROMPT='%*'
 
 
 # Add Locations to $PATH Variable
+# Add Visual Studio Code (code)
 
 # Write Handy Functions
 function mkcd() {
