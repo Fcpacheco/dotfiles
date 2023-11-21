@@ -23,6 +23,8 @@ brew "httpie"
 brew "llvm"
 # Mac App Store command-line interface
 brew "mas"
+# Node version management
+brew "n"
 # Internet file retriever
 brew "wget"
 # Application launcher and productivity software
