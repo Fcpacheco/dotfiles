@@ -21,12 +21,25 @@ brew "hdf5"
 brew "httpie"
 # Next-gen compiler infrastructure
 brew "llvm"
+# Mac App Store command-line interface
+brew "mas"
 # Internet file retriever
 brew "wget"
 # Application launcher and productivity software
 cask "alfred"
 # Git client focusing on productivity
 cask "gitkraken"
+mas "GarageBand", id: 408980954
+mas "iMovie", id: 408981434
+mas "iPhoto", id: 408981381
+mas "iZip Unarchiver", id: 717545828
+mas "Keynote", id: 409183694
+mas "Kindle Classic", id: 405399194
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Speedtest", id: 1153157709
+mas "Xcode", id: 497799835
 vscode "ms-python.python"
 vscode "ms-python.vscode-pylance"
 vscode "ms-toolsai.jupyter"
