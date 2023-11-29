@@ -63,7 +63,6 @@ function mkcd() {
 	mkdir -p "$@" && cd "$_";
 }
 
-
 # Use ZSH Plugins
 
 # ...and Others Surprises
