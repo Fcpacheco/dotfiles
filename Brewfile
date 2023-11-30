@@ -19,6 +19,8 @@ brew "graphviz"
 brew "hdf5"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
+# Pager program similar to more
+brew "less"
 # Next-gen compiler infrastructure
 brew "llvm"
 # Mac App Store command-line interface
