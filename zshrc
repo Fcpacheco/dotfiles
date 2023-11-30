@@ -44,7 +44,7 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 # Create Aliases
 alias ls='ls -lAFh'
-
+alias bbd='brew bundle dump --force --describe'  
 
 # Custumize Prompt(s)
 PROMPT='
