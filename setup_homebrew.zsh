@@ -3,9 +3,9 @@
 echo "\n<<< Starting Homebrew Setup >>>\n"
 
 if exists brew; then
-  echo "brew exists, skipping install"
+  echo "brew exist, skipping install"
 else 
-  echo "brew doesn't exists, continuing wuth install"
+  echo "brew doesn't exist, continuing wuth install"
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 fi
 
