@@ -31,6 +31,8 @@ brew "n"
 brew "nano"
 # Internet file retriever
 brew "wget"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Application launcher and productivity software
 cask "alfred"
 # Git client focusing on productivity
