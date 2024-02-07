@@ -49,6 +49,7 @@ export PREFIX="$N_PREFIX"
 alias ls='ls -lAFh'
 alias bbd='brew bundle dump --force --describe'
 alias trail='<<<${(F)path}'
+alias rm=trash
 
 # Custumize Prompt(s)
 PROMPT='
