@@ -79,3 +79,8 @@ function mkcd() {
 # Use ZSH Plugins
 
 # ...and Others Surprises
+
+# Set up Pyenv environment
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
